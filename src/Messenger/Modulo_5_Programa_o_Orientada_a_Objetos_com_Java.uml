@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:UMLLabProfile="http:///schemas/UMLLabProfile/NS/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/UMLLabProfile/NS/0 pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile">
+  <uml:Model xmi:id="_noElYFgXEe6Q3rpeMbDANA" name="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java">
+    <eAnnotations xmi:id="_r2SSQFgXEe6Q3rpeMbDANA" source="http://ns.yatta.de/umllab">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_r2S5UFgXEe6Q3rpeMbDANA" source="codegen">
+        <details xmi:id="_r2S5UVgXEe6Q3rpeMbDANA" key="AssociatedSourceCode" value="/Modulo_5_Programa_o_Orientada_a_Objetos_com_Java/generated/receberMensagem.java;969171499/1;"/>
+      </contents>
+    </eAnnotations>
+    <elementImport xmi:id="_ovcnsFgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcnsVgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#byte"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcnslgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#char"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcns1gYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcntFgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcntVgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcntlgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+    </elementImport>
+    <elementImport xmi:id="_ovcnt1gYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#short"/>
+    </elementImport>
+    <elementImport xmi:id="_ox43sFgYEe6Q3rpeMbDANA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </elementImport>
+    <packagedElement xmi:type="uml:Class" xmi:id="_1JY1UFgXEe6Q3rpeMbDANA" name="receberMensagem">
+      <ownedOperation xmi:id="_ll-VUFgYEe6Q3rpeMbDANA" name="enviarMensagem" visibility="public">
+        <ownedParameter xmi:id="_o-GHsFgYEe6Q3rpeMbDANA" type="_prL3MFgYEe6Q3rpeMbDANA" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_-Fn7EFgYEe6Q3rpeMbDANA" name="receberMensagem">
+        <ownedParameter xmi:id="__VyicFgYEe6Q3rpeMbDANA" type="_prL3MFgYEe6Q3rpeMbDANA" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_EHVl4FgZEe6Q3rpeMbDANA" name="validarConectadoInternet">
+        <ownedParameter xmi:id="_Ez9bUFgZEe6Q3rpeMbDANA" type="_prL3MFgYEe6Q3rpeMbDANA" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_JAj-oFgZEe6Q3rpeMbDANA" name="salvarHistoricoMensagem">
+        <ownedParameter xmi:id="_JAj-oVgZEe6Q3rpeMbDANA" type="_prL3MFgYEe6Q3rpeMbDANA" direction="return"/>
+      </ownedOperation>
+    </packagedElement>
+    <packagedElement xmi:type="uml:DataType" xmi:id="_prL3MFgYEe6Q3rpeMbDANA" name="void"/>
+    <packagedElement xmi:type="uml:DataType" xmi:id="_2nLzkFgYEe6Q3rpeMbDANA" name="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java:void"/>
+    <profileApplication xmi:id="_prMeQFgYEe6Q3rpeMbDANA">
+      <eAnnotations xmi:id="_prR90FgYEe6Q3rpeMbDANA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile"/>
+    </profileApplication>
+  </uml:Model>
+  <UMLLabProfile:UnresolvedElement xmi:id="_prW2UFgYEe6Q3rpeMbDANA" base_Element="_prL3MFgYEe6Q3rpeMbDANA"/>
+  <UMLLabProfile:UnresolvedElement xmi:id="_2nNBsFgYEe6Q3rpeMbDANA" base_Element="_2nLzkFgYEe6Q3rpeMbDANA"/>
+</xmi:XMI>

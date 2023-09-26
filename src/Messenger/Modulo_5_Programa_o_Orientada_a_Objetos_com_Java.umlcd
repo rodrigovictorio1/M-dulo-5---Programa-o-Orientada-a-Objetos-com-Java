@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_nqauwFgXEe6Q3rpeMbDANA">
+  <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_noElYFgXEe6Q3rpeMbDANA"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_1JbRkFgXEe6Q3rpeMbDANA" name="receberMensagem">
+    <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_1JY1UFgXEe6Q3rpeMbDANA"/>
+    <visualProperties xmi:id="_1JbRkVgXEe6Q3rpeMbDANA" position="115.0,85.0" size="308.0,137.0"/>
+    <visibility xmi:id="_1JbRklgXEe6Q3rpeMbDANA" label="+"/>
+    <operations xmi:id="_lmB_sFgYEe6Q3rpeMbDANA" name="enviarMensagem">
+      <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_ll-VUFgYEe6Q3rpeMbDANA"/>
+      <visibility xmi:id="_lmB_sVgYEe6Q3rpeMbDANA" label="+"/>
+      <cardinality xmi:id="_lmB_slgYEe6Q3rpeMbDANA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_o-GuwFgYEe6Q3rpeMbDANA">
+        <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_o-GHsFgYEe6Q3rpeMbDANA"/>
+        <type xmi:id="_AHN_YFgZEe6Q3rpeMbDANA" name="void">
+          <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_prL3MFgYEe6Q3rpeMbDANA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_-FoiIFgYEe6Q3rpeMbDANA" name="receberMensagem">
+      <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_-Fn7EFgYEe6Q3rpeMbDANA"/>
+      <visibility xmi:id="_-FoiIVgYEe6Q3rpeMbDANA" label="+"/>
+      <cardinality xmi:id="_-FoiIlgYEe6Q3rpeMbDANA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="__VzJgFgYEe6Q3rpeMbDANA">
+        <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#__VyicFgYEe6Q3rpeMbDANA"/>
+        <type xmi:id="__VzJgVgYEe6Q3rpeMbDANA" name="void">
+          <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_prL3MFgYEe6Q3rpeMbDANA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EHWM8FgZEe6Q3rpeMbDANA" name="validarConectadoInternet">
+      <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_EHVl4FgZEe6Q3rpeMbDANA"/>
+      <visibility xmi:id="_EHWM8VgZEe6Q3rpeMbDANA" label="+"/>
+      <cardinality xmi:id="_EHWM8lgZEe6Q3rpeMbDANA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ez-CYFgZEe6Q3rpeMbDANA">
+        <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_Ez9bUFgZEe6Q3rpeMbDANA"/>
+        <type xmi:id="_Ez-CYVgZEe6Q3rpeMbDANA" name="void">
+          <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_prL3MFgYEe6Q3rpeMbDANA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_JAklsFgZEe6Q3rpeMbDANA" name="salvarHistoricoMensagem">
+      <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_JAj-oFgZEe6Q3rpeMbDANA"/>
+      <visibility xmi:id="_JAklsVgZEe6Q3rpeMbDANA" label="+"/>
+      <cardinality xmi:id="_JAklslgZEe6Q3rpeMbDANA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_JAkls1gZEe6Q3rpeMbDANA">
+        <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_JAj-oVgZEe6Q3rpeMbDANA"/>
+        <type xmi:id="_JAkltFgZEe6Q3rpeMbDANA" name="void">
+          <modelElement href="Modulo_5_Programa_o_Orientada_a_Objetos_com_Java.uml#_prL3MFgYEe6Q3rpeMbDANA"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
